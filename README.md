@@ -1,5 +1,5 @@
 # cs231n-assignment
-my code and ipynb of cs231n : Convolutional Neural Network for Visual Recognition by Feifei Li.<br>
+My code and ipynb of cs231n : Convolutional Neural Network for Visual Recognition by Feifei Li.<br>
 This course includes three assignments, showing as follows:
 >Assignment #1: Image Classification, kNN, SVM, Softmax, Neural Network<br>
 >Assignment #2: Fully-Connected Nets, Batch Normalization, Dropout, Convolutional Nets<br>
